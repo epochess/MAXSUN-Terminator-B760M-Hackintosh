@@ -16,10 +16,10 @@
 
 - 主    板: Maxsun MS-Terminator B760M D4
 - 芯片组: B760
-- Bios 版本: H5.2G（07/15/2023）
+- Bios 版本: H6.0
 - 处理器: 英特尔12代 i5-12600KF
 - 内    存: 科赋雷霆X 16GB*2 DDR4 3200MHz
-- 硬    盘: 西部数据 SN7&0 512GB
+- 硬    盘: 西部数据 SN770 1TB
 - 独    显:  XFX AMD Radeon RX6600XT 8GB 
 - 声    卡: 瑞昱 ALC897
 - 有线网卡: 瑞昱 8125 2.5GbE
