@@ -17,21 +17,17 @@
 - 主    板: Maxsun MS-Terminator B760M D4
 - 芯片组: B760
 - Bios 版本: H5.2G（07/15/2023）
-- 处理器: 英特尔12代 i5-12400F
-- 内    存: 海盗船复仇者LPX 16GB*2 DDR4 3600MHz
-- 硬    盘: 西部数据 SN730 512GB
-- 硬    盘: 西部数据 1TB 7200 RPM HDD
-- 独    显:  蓝宝石 AMD Radeon RX5500XT 8GB 白金
+- 处理器: 英特尔12代 i5-12600KF
+- 内    存: 科赋雷霆X 16GB*2 DDR4 3200MHz
+- 硬    盘: 西部数据 SN7&0 512GB
+- 独    显:  XFX AMD Radeon RX6600XT 8GB 
 - 声    卡: 瑞昱 ALC897
 - 有线网卡: 瑞昱 8125 2.5GbE
-- 无线网卡: BCM94360CD
-- 机    箱:  乔思伯U4
-- 电    源: 安钛克HCG 750W
+- 无线网卡: AX200
 
 ### BIOS设置
 
 ```
-
 |-- VT-d：开启
 |-- Above 4G decoding：开启
 |-- Resizable Bar：关闭
@@ -40,7 +36,6 @@
 |-- Fast Boot：关闭
 |-- Secure Boot：关闭
 |-- CFG LOCK：关闭
-
 ```
 
 ### 注意事项
